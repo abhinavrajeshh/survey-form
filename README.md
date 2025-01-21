@@ -16,7 +16,7 @@ This is a simple survey form project created as part of the [freeCodeCamp Respon
 
 ## Live Demo
 
-[Live Preview of the Survey Form]([#](https://abhinavrajeshh.github.io/survey-form/)) 
+[Live Preview of the Survey Form](#) *(https://abhinavrajeshh.github.io/survey-form/)*
 
 ## Project Structure
 
